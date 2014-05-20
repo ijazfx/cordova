@@ -1,4 +1,4 @@
-telerik
-=======
+Apache Cordova Apps and API
+===========================
 
-AppBuilder Apps using Telerik Platform
+Experimental.
